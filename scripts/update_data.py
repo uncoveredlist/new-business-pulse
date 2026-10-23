@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Refresh data/ from the live New Business Pulse CSV (stdlib only).
 
-Writes data/pulse-latest.csv and data/pulse-<edition>.csv. Refuses to write
+Writes data/pulse-<edition>.csv (the monthly edition archive). data/pulse-latest.csv is the
+rolling 30-day file, refreshed daily by UncoveredList, so this script does not touch it. Refuses to write
 if the header changes or columns that could hold personal data show up.
 """
 import csv
@@ -48,7 +49,7 @@ def main() -> int:
 
     edition = editions.pop()
     DATA.mkdir(exist_ok=True)
-    for name in ("pulse-latest.csv", f"pulse-{edition}.csv"):
+    for name in (f"pulse-{edition}.csv",):
         (DATA / name).write_text(text, encoding="utf-8", newline="")
     print(f"Wrote edition {edition}: {len(body)} rows")
     return 0

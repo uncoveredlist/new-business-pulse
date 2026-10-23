@@ -1,295 +1,306 @@
 {
-  "profile": "tabular-data-package",
-  "name": "new-business-pulse",
-  "title": "New Business Pulse",
-  "description": "Aggregate counts of new business filings in Colorado, New York, Pennsylvania, Connecticut and Texas, compiled from public state records. Totals only; no personal data.",
-  "version": "2026.10.0",
-  "homepage": "https://uncoveredlist.com/pulse",
-  "licenses": [
-    {
-      "name": "CC-BY-4.0",
-      "path": "https://creativecommons.org/licenses/by/4.0/",
-      "title": "Creative Commons Attribution 4.0"
-    }
-  ],
-  "contributors": [
-    {
-      "title": "UncoveredList Team",
-      "email": "support@uncoveredlist.com",
-      "path": "https://uncoveredlist.com",
-      "role": "author"
-    }
-  ],
-  "sources": [
-    {
-      "title": "Colorado Secretary of State business entity filings"
-    },
-    {
-      "title": "New York Department of State business entity filings"
-    },
-    {
-      "title": "Pennsylvania Department of State business registrations"
-    },
-    {
-      "title": "Connecticut Secretary of the State business registrations"
-    },
-    {
-      "title": "Texas Comptroller of Public Accounts new sales-tax permits"
-    }
-  ],
-  "keywords": [
-    "new business filings",
-    "business formation",
-    "small business",
-    "commercial insurance",
-    "united states"
-  ],
-  "resources": [
-    {
-      "name": "pulse-latest",
-      "path": "data/pulse-latest.csv",
-      "title": "New Business Pulse, latest edition",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "profile": "tabular-data-resource",
-      "schema": {
-        "fields": [
-          {
-            "name": "edition",
-            "type": "string",
-            "description": "Pulse edition (YYYY-MM)",
-            "constraints": {
-              "required": true,
-              "pattern": "^\\d{4}-\\d{2}$"
-            }
-          },
-          {
-            "name": "level",
-            "type": "string",
-            "description": "Row type",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "all_states",
-                "all_states_industry",
-                "state",
-                "state_industry",
-                "state_top_area",
-                "state_filing_date"
-              ]
-            }
-          },
-          {
-            "name": "state",
-            "type": "string",
-            "description": "CO, NY, PA, CT, TX or ALL",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "ALL",
-                "CO",
-                "NY",
-                "PA",
-                "CT",
-                "TX"
-              ]
-            }
-          },
-          {
-            "name": "state_name",
-            "type": "string",
-            "description": "State name (or list of states for ALL)"
-          },
-          {
-            "name": "window_start",
-            "type": "date",
-            "description": "First filing date counted"
-          },
-          {
-            "name": "window_end",
-            "type": "date",
-            "description": "Last filing date counted"
-          },
-          {
-            "name": "industry",
-            "type": "string",
-            "description": "Industry group (industry rows only)"
-          },
-          {
-            "name": "area_type",
-            "type": "string",
-            "description": "county or city (top-area rows only)",
-            "constraints": {
-              "enum": [
-                "county",
-                "city"
-              ]
-            }
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "description": "County or city name (top-area rows only)"
-          },
-          {
-            "name": "filing_date",
-            "type": "date",
-            "description": "Single filing day (state_filing_date rows only)"
-          },
-          {
-            "name": "new_businesses",
-            "type": "integer",
-            "description": "New businesses filed",
-            "constraints": {
-              "required": true,
-              "minimum": 0
-            }
-          },
-          {
-            "name": "scored_70_plus",
-            "type": "integer",
-            "description": "Businesses scored 70+ for commercial insurance need",
-            "constraints": {
-              "minimum": 0
-            }
-          },
-          {
-            "name": "hot",
-            "type": "integer",
-            "description": "Businesses in the Hot tier",
-            "constraints": {
-              "minimum": 0
-            }
-          }
-        ],
-        "missingValues": [
-          ""
-        ]
+ "profile": "tabular-data-package",
+ "name": "new-business-pulse",
+ "title": "New Business Pulse",
+ "description": "Daily aggregate counts of new business filings in CO, NY, PA, CT and TX, scored for commercial insurance need. Compiled from public state records; business-level public records only, aggregate counts only, no personal data.",
+ "version": "2026.10.1",
+ "homepage": "https://uncoveredlist.com/pulse",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "UncoveredList Team",
+   "email": "support@uncoveredlist.com",
+   "path": "https://uncoveredlist.com",
+   "role": "author"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Colorado Secretary of State, Business Entities in Colorado (Colorado Information Marketplace)",
+   "path": "https://data.colorado.gov"
+  },
+  {
+   "title": "New York Department of State, Daily Corporation and Other Entity Filing Data (OPEN-NY)",
+   "path": "https://data.ny.gov"
+  },
+  {
+   "title": "Pennsylvania Department of State, Registered business data (OpenDataPA)",
+   "path": "https://data.pa.gov"
+  },
+  {
+   "title": "Connecticut Secretary of the State, Connecticut Business Registry",
+   "path": "https://data.ct.gov"
+  },
+  {
+   "title": "Texas Comptroller of Public Accounts, Active Sales Tax Permit Holders",
+   "path": "https://data.texas.gov"
+  }
+ ],
+ "keywords": [
+  "open-data",
+  "new business filings",
+  "business formation",
+  "small business",
+  "commercial insurance",
+  "united states"
+ ],
+ "resources": [
+  {
+   "name": "pulse-latest",
+   "path": "data/pulse-latest.csv",
+   "title": "New Business Pulse, rolling last 30 days (updated daily)",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "profile": "tabular-data-resource",
+   "schema": {
+    "fields": [
+     {
+      "name": "edition",
+      "type": "string",
+      "description": "rolling-30d for the rolling file",
+      "constraints": {
+       "required": true,
+       "enum": [
+        "rolling-30d"
+       ]
       }
-    },
-    {
-      "name": "pulse-2026-10",
-      "path": "data/pulse-2026-10.csv",
-      "title": "New Business Pulse, October 2026",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "profile": "tabular-data-resource",
-      "schema": {
-        "fields": [
-          {
-            "name": "edition",
-            "type": "string",
-            "description": "Pulse edition (YYYY-MM)",
-            "constraints": {
-              "required": true,
-              "pattern": "^\\d{4}-\\d{2}$"
-            }
-          },
-          {
-            "name": "level",
-            "type": "string",
-            "description": "Row type",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "all_states",
-                "all_states_industry",
-                "state",
-                "state_industry",
-                "state_top_area",
-                "state_filing_date"
-              ]
-            }
-          },
-          {
-            "name": "state",
-            "type": "string",
-            "description": "CO, NY, PA, CT, TX or ALL",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "ALL",
-                "CO",
-                "NY",
-                "PA",
-                "CT",
-                "TX"
-              ]
-            }
-          },
-          {
-            "name": "state_name",
-            "type": "string",
-            "description": "State name (or list of states for ALL)"
-          },
-          {
-            "name": "window_start",
-            "type": "date",
-            "description": "First filing date counted"
-          },
-          {
-            "name": "window_end",
-            "type": "date",
-            "description": "Last filing date counted"
-          },
-          {
-            "name": "industry",
-            "type": "string",
-            "description": "Industry group (industry rows only)"
-          },
-          {
-            "name": "area_type",
-            "type": "string",
-            "description": "county or city (top-area rows only)",
-            "constraints": {
-              "enum": [
-                "county",
-                "city"
-              ]
-            }
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "description": "County or city name (top-area rows only)"
-          },
-          {
-            "name": "filing_date",
-            "type": "date",
-            "description": "Single filing day (state_filing_date rows only)"
-          },
-          {
-            "name": "new_businesses",
-            "type": "integer",
-            "description": "New businesses filed",
-            "constraints": {
-              "required": true,
-              "minimum": 0
-            }
-          },
-          {
-            "name": "scored_70_plus",
-            "type": "integer",
-            "description": "Businesses scored 70+ for commercial insurance need",
-            "constraints": {
-              "minimum": 0
-            }
-          },
-          {
-            "name": "hot",
-            "type": "integer",
-            "description": "Businesses in the Hot tier",
-            "constraints": {
-              "minimum": 0
-            }
-          }
-        ],
-        "missingValues": [
-          ""
-        ]
+     },
+     {
+      "name": "level",
+      "type": "string",
+      "description": "Row type",
+      "constraints": {
+       "required": true,
+       "enum": [
+        "all_states",
+        "all_states_industry",
+        "state",
+        "state_industry",
+        "state_top_area",
+        "state_filing_date"
+       ]
       }
-    }
-  ]
+     },
+     {
+      "name": "state",
+      "type": "string",
+      "description": "CO, NY, PA, CT, TX or ALL",
+      "constraints": {
+       "required": true,
+       "enum": [
+        "ALL",
+        "CO",
+        "NY",
+        "PA",
+        "CT",
+        "TX"
+       ]
+      }
+     },
+     {
+      "name": "state_name",
+      "type": "string",
+      "description": "State name (or list of states for ALL)"
+     },
+     {
+      "name": "window_start",
+      "type": "date",
+      "description": "First filing date counted"
+     },
+     {
+      "name": "window_end",
+      "type": "date",
+      "description": "Last filing date counted"
+     },
+     {
+      "name": "industry",
+      "type": "string",
+      "description": "Industry group (industry rows only): one of 20 segments or Unclassified"
+     },
+     {
+      "name": "area_type",
+      "type": "string",
+      "description": "county or city (top-area rows only)",
+      "constraints": {
+       "enum": [
+        "county",
+        "city"
+       ]
+      }
+     },
+     {
+      "name": "area",
+      "type": "string",
+      "description": "County or city name (top-area rows only)"
+     },
+     {
+      "name": "filing_date",
+      "type": "date",
+      "description": "Single filing day (state_filing_date rows only)"
+     },
+     {
+      "name": "new_businesses",
+      "type": "integer",
+      "description": "New businesses filed",
+      "constraints": {
+       "required": true,
+       "minimum": 0
+      }
+     },
+     {
+      "name": "scored_70_plus",
+      "type": "integer",
+      "description": "Businesses scored 70+ for commercial insurance need",
+      "constraints": {
+       "minimum": 0
+      }
+     },
+     {
+      "name": "hot",
+      "type": "integer",
+      "description": "Businesses in the Hot tier",
+      "constraints": {
+       "minimum": 0
+      }
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   },
+   "description": "Aggregate counts for the last 30 days of filing dates, regenerated daily. Each state's window is in window_start/window_end."
+  },
+  {
+   "name": "pulse-2026-10",
+   "path": "data/pulse-2026-10.csv",
+   "title": "New Business Pulse, October 2026 edition (frozen)",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "profile": "tabular-data-resource",
+   "schema": {
+    "fields": [
+     {
+      "name": "edition",
+      "type": "string",
+      "description": "Pulse edition (YYYY-MM)",
+      "constraints": {
+       "required": true,
+       "pattern": "^\\d{4}-\\d{2}$"
+      }
+     },
+     {
+      "name": "level",
+      "type": "string",
+      "description": "Row type",
+      "constraints": {
+       "required": true,
+       "enum": [
+        "all_states",
+        "all_states_industry",
+        "state",
+        "state_industry",
+        "state_top_area",
+        "state_filing_date"
+       ]
+      }
+     },
+     {
+      "name": "state",
+      "type": "string",
+      "description": "CO, NY, PA, CT, TX or ALL",
+      "constraints": {
+       "required": true,
+       "enum": [
+        "ALL",
+        "CO",
+        "NY",
+        "PA",
+        "CT",
+        "TX"
+       ]
+      }
+     },
+     {
+      "name": "state_name",
+      "type": "string",
+      "description": "State name (or list of states for ALL)"
+     },
+     {
+      "name": "window_start",
+      "type": "date",
+      "description": "First filing date counted"
+     },
+     {
+      "name": "window_end",
+      "type": "date",
+      "description": "Last filing date counted"
+     },
+     {
+      "name": "industry",
+      "type": "string",
+      "description": "Industry group (industry rows only): one of 20 segments or Unclassified"
+     },
+     {
+      "name": "area_type",
+      "type": "string",
+      "description": "county or city (top-area rows only)",
+      "constraints": {
+       "enum": [
+        "county",
+        "city"
+       ]
+      }
+     },
+     {
+      "name": "area",
+      "type": "string",
+      "description": "County or city name (top-area rows only)"
+     },
+     {
+      "name": "filing_date",
+      "type": "date",
+      "description": "Single filing day (state_filing_date rows only)"
+     },
+     {
+      "name": "new_businesses",
+      "type": "integer",
+      "description": "New businesses filed",
+      "constraints": {
+       "required": true,
+       "minimum": 0
+      }
+     },
+     {
+      "name": "scored_70_plus",
+      "type": "integer",
+      "description": "Businesses scored 70+ for commercial insurance need",
+      "constraints": {
+       "minimum": 0
+      }
+     },
+     {
+      "name": "hot",
+      "type": "integer",
+      "description": "Businesses in the Hot tier",
+      "constraints": {
+       "minimum": 0
+      }
+     }
+    ],
+    "missingValues": [
+     ""
+    ]
+   },
+   "description": "Monthly edition as published at uncoveredlist.com/pulse/october-2026. Filing dates 2026-09-17 to 2026-10-18, varying by state."
+  }
+ ],
+ "citation": "Source: UncoveredList, New Business Pulse (October 2026), uncoveredlist.com/pulse."
 }
