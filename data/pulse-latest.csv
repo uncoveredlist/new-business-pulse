@@ -1,32 +1,32 @@
 edition,level,state,state_name,window_start,window_end,industry,area_type,area,filing_date,new_businesses,scored_70_plus,hot
-rolling-30d,all_states,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,,,,,21415,7104,4585
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Retail & E-commerce,,,,3937,0,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Unclassified,,,,3138,0,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Professional Services,,,,2345,0,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,"Restaurants, Food & Bars",,,,1453,1452,1163
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Construction & Contractors,,,,1436,1436,1436
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Real Estate & Property Holding,,,,1272,0,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,"Cleaning, Landscaping & Home Services",,,,843,615,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Trucking & Transportation,,,,834,833,833
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Manufacturing & Industrial,,,,785,647,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Healthcare & Wellness,,,,737,724,662
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Technology & Software,,,,679,0,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Auto Services & Dealers,,,,661,518,447
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Wholesale & Distribution,,,,599,408,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Holding / Investment Shell,,,,547,0,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Beauty & Personal Care,,,,541,0,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Nonprofit / Religious,,,,383,0,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Fitness & Recreation,,,,381,116,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Hospitality & Events,,,,354,120,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Agriculture & Cannabis,,,,236,62,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Childcare & Education,,,,185,114,0
-rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-22,2026-10-21,Security & Staffing,,,,69,59,44
-rolling-30d,state,CO,Colorado,2026-10-10,2026-10-21,,,,,4399,1383,985
+rolling-30d,all_states,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,,,,,21889,7215,4683
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Retail & E-commerce,,,,3962,0,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Unclassified,,,,3207,0,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Professional Services,,,,2407,0,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,"Restaurants, Food & Bars",,,,1491,1490,1200
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Construction & Contractors,,,,1462,1462,1462
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Real Estate & Property Holding,,,,1368,0,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Trucking & Transportation,,,,862,861,861
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,"Cleaning, Landscaping & Home Services",,,,860,616,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Manufacturing & Industrial,,,,782,644,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Healthcare & Wellness,,,,756,743,681
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Technology & Software,,,,693,0,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Auto Services & Dealers,,,,663,520,437
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Wholesale & Distribution,,,,621,403,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Holding / Investment Shell,,,,565,0,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Beauty & Personal Care,,,,557,0,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Fitness & Recreation,,,,387,120,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Nonprofit / Religious,,,,375,0,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Hospitality & Events,,,,368,120,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Agriculture & Cannabis,,,,239,62,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Childcare & Education,,,,192,112,0
+rolling-30d,all_states_industry,ALL,"Colorado, New York, Pennsylvania, Connecticut, Texas",2026-09-23,2026-10-22,Security & Staffing,,,,72,62,42
+rolling-30d,state,CO,Colorado,2026-10-10,2026-10-21,,,,,4400,1383,985
 rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Unclassified,,,,1303,0,0
 rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Professional Services,,,,548,0,0
 rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Construction & Contractors,,,,289,289,289
 rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Trucking & Transportation,,,,272,272,272
-rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Real Estate & Property Holding,,,,263,0,0
+rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Real Estate & Property Holding,,,,264,0,0
 rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Healthcare & Wellness,,,,206,201,201
 rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Retail & E-commerce,,,,191,0,0
 rolling-30d,state_industry,CO,Colorado,2026-10-10,2026-10-21,Holding / Investment Shell,,,,164,0,0
@@ -57,122 +57,123 @@ rolling-30d,state_filing_date,CO,Colorado,2026-10-10,2026-10-21,,,,2026-10-15,40
 rolling-30d,state_filing_date,CO,Colorado,2026-10-10,2026-10-21,,,,2026-10-16,434,,
 rolling-30d,state_filing_date,CO,Colorado,2026-10-10,2026-10-21,,,,2026-10-17,194,,
 rolling-30d,state_filing_date,CO,Colorado,2026-10-10,2026-10-21,,,,2026-10-18,191,,
-rolling-30d,state_filing_date,CO,Colorado,2026-10-10,2026-10-21,,,,2026-10-19,514,,
+rolling-30d,state_filing_date,CO,Colorado,2026-10-10,2026-10-21,,,,2026-10-19,515,,
 rolling-30d,state_filing_date,CO,Colorado,2026-10-10,2026-10-21,,,,2026-10-20,502,,
 rolling-30d,state_filing_date,CO,Colorado,2026-10-10,2026-10-21,,,,2026-10-21,521,,
-rolling-30d,state,NY,New York,2026-10-10,2026-10-19,,,,,4516,1038,886
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Unclassified,,,,1200,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Professional Services,,,,519,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Real Estate & Property Holding,,,,509,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Construction & Contractors,,,,322,322,322
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Retail & E-commerce,,,,240,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Holding / Investment Shell,,,,235,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,"Restaurants, Food & Bars",,,,208,208,206
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Trucking & Transportation,,,,184,184,184
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Healthcare & Wellness,,,,180,180,174
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,"Cleaning, Landscaping & Home Services",,,,147,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Beauty & Personal Care,,,,124,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Technology & Software,,,,93,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Wholesale & Distribution,,,,89,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Nonprofit / Religious,,,,84,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Hospitality & Events,,,,81,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Fitness & Recreation,,,,74,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Auto Services & Dealers,,,,70,69,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Manufacturing & Industrial,,,,64,60,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Childcare & Education,,,,45,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Agriculture & Cannabis,,,,32,0,0
-rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-19,Security & Staffing,,,,16,15,0
-rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-19,,county,Kings,,799,178,
-rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-19,,county,Queens,,591,161,
-rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-19,,county,New York,,478,72,
-rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-19,,county,Nassau,,437,82,
-rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-19,,county,Suffolk,,398,88,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-10,116,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-11,114,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-12,270,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-13,860,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-14,803,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-15,746,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-16,625,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-17,169,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-18,143,,
-rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-19,,,,2026-10-19,670,,
-rolling-30d,state,PA,Pennsylvania,2026-09-22,2026-10-01,,,,,3078,1063,798
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Unclassified,,,,629,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Professional Services,,,,391,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Construction & Contractors,,,,254,254,254
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Real Estate & Property Holding,,,,251,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Trucking & Transportation,,,,219,218,218
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Retail & E-commerce,,,,152,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,"Cleaning, Landscaping & Home Services",,,,134,133,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Holding / Investment Shell,,,,131,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Nonprofit / Religious,,,,129,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,"Restaurants, Food & Bars",,,,127,127,127
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Healthcare & Wellness,,,,120,118,118
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Beauty & Personal Care,,,,83,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Technology & Software,,,,73,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Auto Services & Dealers,,,,72,72,71
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Manufacturing & Industrial,,,,71,71,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Fitness & Recreation,,,,62,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Agriculture & Cannabis,,,,57,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Hospitality & Events,,,,51,0,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Wholesale & Distribution,,,,35,35,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Childcare & Education,,,,27,25,0
-rolling-30d,state_industry,PA,Pennsylvania,2026-09-22,2026-10-01,Security & Staffing,,,,10,10,10
-rolling-30d,state_top_area,PA,Pennsylvania,2026-09-22,2026-10-01,,county,Philadelphia,,634,239,
-rolling-30d,state_top_area,PA,Pennsylvania,2026-09-22,2026-10-01,,county,Allegheny,,269,103,
-rolling-30d,state_top_area,PA,Pennsylvania,2026-09-22,2026-10-01,,county,Montgomery,,268,73,
-rolling-30d,state_top_area,PA,Pennsylvania,2026-09-22,2026-10-01,,county,Bucks,,168,59,
-rolling-30d,state_top_area,PA,Pennsylvania,2026-09-22,2026-10-01,,county,Delaware,,165,51,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-22,423,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-23,377,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-24,359,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-25,315,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-26,141,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-27,127,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-28,341,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-29,363,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-09-30,369,,
-rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-22,2026-10-01,,,,2026-10-01,263,,
-rolling-30d,state,CT,Connecticut,2026-10-10,2026-10-21,,,,,1365,599,398
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Professional Services,,,,257,0,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Real Estate & Property Holding,,,,169,0,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Retail & E-commerce,,,,165,0,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Construction & Contractors,,,,141,141,141
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Healthcare & Wellness,,,,87,81,81
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Technology & Software,,,,77,0,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Trucking & Transportation,,,,71,71,71
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,"Restaurants, Food & Bars",,,,67,67,67
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,"Cleaning, Landscaping & Home Services",,,,65,65,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Beauty & Personal Care,,,,40,0,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Auto Services & Dealers,,,,36,36,36
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Fitness & Recreation,,,,33,29,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Nonprofit / Religious,,,,32,0,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Wholesale & Distribution,,,,30,30,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Manufacturing & Industrial,,,,26,26,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Childcare & Education,,,,24,24,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Hospitality & Events,,,,22,19,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Holding / Investment Shell,,,,11,0,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Agriculture & Cannabis,,,,8,8,0
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Security & Staffing,,,,2,2,2
-rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-21,Unclassified,,,,2,0,0
-rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-21,,city,Stamford,,76,29,
-rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-21,,city,Bridgeport,,65,39,
-rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-21,,city,Hartford,,49,21,
-rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-21,,city,New Haven,,49,25,
-rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-21,,city,Danbury,,38,28,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-10,53,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-11,46,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-12,129,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-13,154,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-14,136,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-15,143,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-16,132,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-17,58,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-18,57,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-19,163,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-20,154,,
-rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-21,,,,2026-10-21,140,,
+rolling-30d,state,NY,New York,2026-10-10,2026-10-20,,,,,5258,1230,1052
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Unclassified,,,,1354,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Real Estate & Property Holding,,,,623,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Professional Services,,,,595,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Construction & Contractors,,,,371,371,371
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Retail & E-commerce,,,,277,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Holding / Investment Shell,,,,273,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,"Restaurants, Food & Bars",,,,255,255,252
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Trucking & Transportation,,,,221,221,221
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Healthcare & Wellness,,,,214,214,208
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,"Cleaning, Landscaping & Home Services",,,,164,1,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Beauty & Personal Care,,,,146,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Wholesale & Distribution,,,,116,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Technology & Software,,,,109,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Hospitality & Events,,,,103,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Nonprofit / Religious,,,,87,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Fitness & Recreation,,,,83,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Auto Services & Dealers,,,,82,81,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Manufacturing & Industrial,,,,71,67,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Childcare & Education,,,,53,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Agriculture & Cannabis,,,,40,0,0
+rolling-30d,state_industry,NY,New York,2026-10-10,2026-10-20,Security & Staffing,,,,21,20,0
+rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-20,,county,Kings,,913,204,
+rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-20,,county,Queens,,717,201,
+rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-20,,county,New York,,547,86,
+rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-20,,county,Nassau,,525,93,
+rolling-30d,state_top_area,NY,New York,2026-10-10,2026-10-20,,county,Suffolk,,454,102,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-10,116,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-11,114,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-12,270,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-13,860,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-14,803,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-15,746,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-16,629,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-17,169,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-18,143,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-19,705,,
+rolling-30d,state_filing_date,NY,New York,2026-10-10,2026-10-20,,,,2026-10-20,703,,
+rolling-30d,state,PA,Pennsylvania,2026-09-23,2026-10-01,,,,,2655,907,685
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Unclassified,,,,544,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Professional Services,,,,350,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Construction & Contractors,,,,221,221,221
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Real Estate & Property Holding,,,,211,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Trucking & Transportation,,,,198,197,197
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Retail & E-commerce,,,,123,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,"Cleaning, Landscaping & Home Services",,,,119,118,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Nonprofit / Religious,,,,115,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Holding / Investment Shell,,,,110,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,"Restaurants, Food & Bars",,,,106,106,106
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Healthcare & Wellness,,,,95,93,93
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Beauty & Personal Care,,,,74,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Technology & Software,,,,65,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Auto Services & Dealers,,,,61,61,60
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Manufacturing & Industrial,,,,56,56,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Fitness & Recreation,,,,55,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Agriculture & Cannabis,,,,52,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Hospitality & Events,,,,43,0,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Wholesale & Distribution,,,,27,27,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Childcare & Education,,,,22,20,0
+rolling-30d,state_industry,PA,Pennsylvania,2026-09-23,2026-10-01,Security & Staffing,,,,8,8,8
+rolling-30d,state_top_area,PA,Pennsylvania,2026-09-23,2026-10-01,,county,Philadelphia,,539,198,
+rolling-30d,state_top_area,PA,Pennsylvania,2026-09-23,2026-10-01,,county,Montgomery,,240,67,
+rolling-30d,state_top_area,PA,Pennsylvania,2026-09-23,2026-10-01,,county,Allegheny,,233,87,
+rolling-30d,state_top_area,PA,Pennsylvania,2026-09-23,2026-10-01,,county,Bucks,,143,53,
+rolling-30d,state_top_area,PA,Pennsylvania,2026-09-23,2026-10-01,,county,Delaware,,136,42,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-09-23,377,,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-09-24,359,,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-09-25,315,,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-09-26,141,,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-09-27,127,,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-09-28,341,,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-09-29,363,,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-09-30,369,,
+rolling-30d,state_filing_date,PA,Pennsylvania,2026-09-23,2026-10-01,,,,2026-10-01,263,,
+rolling-30d,state,CT,Connecticut,2026-10-10,2026-10-22,,,,,1519,674,443
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Professional Services,,,,284,0,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Real Estate & Property Holding,,,,190,0,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Retail & E-commerce,,,,182,0,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Construction & Contractors,,,,151,151,151
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Healthcare & Wellness,,,,97,91,91
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Technology & Software,,,,83,0,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Trucking & Transportation,,,,83,83,83
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,"Cleaning, Landscaping & Home Services",,,,80,80,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,"Restaurants, Food & Bars",,,,79,79,79
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Beauty & Personal Care,,,,43,0,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Auto Services & Dealers,,,,37,37,37
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Fitness & Recreation,,,,37,33,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Nonprofit / Religious,,,,35,0,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Wholesale & Distribution,,,,33,33,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Manufacturing & Industrial,,,,31,31,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Childcare & Education,,,,28,27,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Hospitality & Events,,,,22,19,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Holding / Investment Shell,,,,12,0,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Agriculture & Cannabis,,,,8,8,0
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Security & Staffing,,,,2,2,2
+rolling-30d,state_industry,CT,Connecticut,2026-10-10,2026-10-22,Unclassified,,,,2,0,0
+rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-22,,city,Stamford,,83,33,
+rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-22,,city,Bridgeport,,75,46,
+rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-22,,city,New Haven,,54,27,
+rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-22,,city,Hartford,,53,24,
+rolling-30d,state_top_area,CT,Connecticut,2026-10-10,2026-10-22,,city,Waterbury,,43,24,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-10,53,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-11,46,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-12,129,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-13,154,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-14,136,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-15,143,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-16,132,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-17,58,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-18,57,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-19,164,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-20,160,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-21,180,,
+rolling-30d,state_filing_date,CT,Connecticut,2026-10-10,2026-10-22,,,,2026-10-22,107,,
 rolling-30d,state,TX,Texas,2026-10-03,2026-10-17,,,,,8057,3021,1518
 rolling-30d,state_industry,TX,Texas,2026-10-03,2026-10-17,Retail & E-commerce,,,,3189,0,0
 rolling-30d,state_industry,TX,Texas,2026-10-03,2026-10-17,"Restaurants, Food & Bars",,,,936,936,649
