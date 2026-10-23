@@ -10,7 +10,7 @@ Daily aggregate counts of new business filings in Colorado, New York, Pennsylvan
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](LICENSE))
 - **Author:** UncoveredList Team · support@uncoveredlist.com
 
-> **Cite as:** Source: UncoveredList, New Business Pulse (October 2026), uncoveredlist.com/pulse.
+> **Cite as:** Source: UncoveredList, New Business Pulse (October 2026): https://uncoveredlist.com/pulse
 
 ## What the Pulse is
 
@@ -83,7 +83,7 @@ Full detail: https://uncoveredlist.com/methodology
 
 ## How to cite
 
-> Source: UncoveredList, New Business Pulse (October 2026), uncoveredlist.com/pulse.
+> Source: UncoveredList, New Business Pulse (October 2026): https://uncoveredlist.com/pulse
 
 For the rolling file, cite the same way and add the date window you used. Media and research questions: support@uncoveredlist.com.
 
