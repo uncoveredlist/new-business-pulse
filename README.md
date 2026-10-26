@@ -81,6 +81,13 @@ Full detail: https://uncoveredlist.com/methodology
 - **Public records have errors and delays**, and states can change or stop a feed.
 - **Not advice.** Scores are estimates for prioritization, not insurance, underwriting, legal or compliance advice.
 
+## Related reading
+- Methodology: https://uncoveredlist.com/methodology
+- October 2026 report: https://uncoveredlist.com/pulse/october-2026
+- Shells and property LLCs in this edition: https://uncoveredlist.com/blog/shells-property-llcs-october-2026-pulse
+- Business names and industries in this edition: https://uncoveredlist.com/blog/haul-yeah-confused-goblins-new-business-filings-october-2026
+- Code and data: https://github.com/uncoveredlist/new-business-pulse
+
 ## How to cite
 
 > Source: UncoveredList, New Business Pulse (October 2026): https://uncoveredlist.com/pulse
