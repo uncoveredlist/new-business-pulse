@@ -39,7 +39,7 @@ Note: `data/pulse-latest.csv` in this repo is the rolling 30-day file. The site'
 | Connecticut | Connecticut Secretary of the State | New business registrations, with state-reported NAICS code |
 | Texas | Texas Comptroller of Public Accounts | New sales-tax permits for Texas locations (not Secretary of State formations; includes new locations of existing businesses) |
 
-Each state has its own date window, given in the `window_start` / `window_end` columns. States publish on different schedules: Colorado, New York and Connecticut usually 1–2 days after filing; Pennsylvania's open-data file lags about two weeks; Texas permits refresh about weekly. Today is never counted, and incomplete first or last days (under 40% of that state's typical day) are left out, so the rolling file's windows are shorter than 30 days for lagging states. **Compare shares, not raw counts, across states.**
+Each state has its own date window, given in the `window_start` / `window_end` columns. States publish on different schedules: Colorado, New York and Connecticut usually 1–2 days after filing; Pennsylvania's open-data file lags 3-4 weeks; Texas permits refresh about weekly. Today is never counted, and incomplete first or last days (under 40% of that state's typical day) are left out, so the rolling file's windows are shorter than 30 days for lagging states. **Compare shares, not raw counts, across states.**
 
 **October 2026 edition** (`pulse-2026-10.csv`): 19,733 new businesses, 6,730 scored 70+ and 4,229 Hot. Windows: Pennsylvania Sep 17–Oct 2 (16 days), Texas Oct 3–17 (15 days), Colorado and Connecticut Oct 10–18 (9 days), New York Oct 10–16 (7 days). Overall Sep 17–Oct 18, 2026. It is not a full month.
 
