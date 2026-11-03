@@ -2,7 +2,7 @@
 
 Daily aggregate counts of new business filings in Colorado, New York, Pennsylvania, Connecticut and Texas, scored for commercial insurance need. Published by [UncoveredList](https://uncoveredlist.com/pulse).
 
-**Last updated:** Nov 2, 2026, 8:00 AM CT. `data/pulse-latest.csv` covers filing dates 2026-10-03 to 2026-11-01 (CO 2026-10-10..2026-11-01, NY 2026-10-10..2026-10-31, PA missing, CT 2026-10-10..2026-11-01, TX 2026-10-03..2026-10-30).
+**Last updated:** Nov 3, 2026, 8:00 AM CT. `data/pulse-latest.csv` covers filing dates 2026-10-05 to 2026-11-02 (CO 2026-10-10..2026-11-01, NY 2026-10-10..2026-11-01, PA missing, CT 2026-10-10..2026-11-02, TX 2026-10-05..2026-10-30).
 
 - **Live report:** https://uncoveredlist.com/pulse
 - **Methodology:** https://uncoveredlist.com/methodology
